@@ -2,7 +2,7 @@
 
 Scripts from my code.talks 2026 talk *Shadow Forecasting Using Publicly
 Available City Models and Data*. All the context, the datasets and the
-step-by-step explanation are on [schattenpause.de](https://schattenpause.de).
+step-by-step explanation are on [codetalks.schattenpause.de](https://codetalks.schattenpause.de).
 
 They are not the most polished scripts, but they work. All coordinates are in
 `EPSG:25832`, which is what Hamburg's data uses.
