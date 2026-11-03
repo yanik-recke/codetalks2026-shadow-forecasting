@@ -1,5 +1,7 @@
 # Shadow Forecasting Scripts
 
+> **Note:** This README was generated with AI.
+
 Scripts from my code.talks 2026 talk *Shadow Forecasting Using Publicly
 Available City Models and Data*. All the context, the datasets and the
 step-by-step explanation are on [codetalks.schattenpause.de](https://codetalks.schattenpause.de).
